@@ -1,0 +1,1 @@
+{"id":1,"name":"table","price":7000.0,"description":"this is table","category":{"id":1,"name":"furniture"},"supplier":{"id":3,"name":"kavi","address":"mumbai","contact":"9899954320"}}
